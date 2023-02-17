@@ -1,0 +1,14 @@
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\bin\Debug\menu_Ordenamientos_P1.exe.config
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\bin\Debug\menu_Ordenamientos_P1.exe
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\bin\Debug\menu_Ordenamientos_P1.pdb
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.Burbuja.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.BurbujaMejorada.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.Form1.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.insercion.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.Properties.Resources.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.Seleccion.resources
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.exe
+C:\Users\edwar\source\repos\menu_Ordenamientos_P1\menu_Ordenamientos_P1\obj\Debug\menu_Ordenamientos_P1.pdb
